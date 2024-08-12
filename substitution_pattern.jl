@@ -6,7 +6,7 @@ using Distributions, LinearAlgebra, GLM, Optim, Random
 Random.seed!(1234)
 
 ## Initial configuration for simulation
-B = 1000                # Number of simulations
+B = 500                # Number of simulations
 N = 1000               # Sample size
 T = 2                  # Two periods panel
 dx = 2                 # Dimension of X
