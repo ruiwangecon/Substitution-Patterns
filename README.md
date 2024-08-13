@@ -1,4 +1,4 @@
-# Code for "Testing and Identifying Substitution and Complementarity Patterns"
+## Code for "Testing and Identifying Substitution and Complementarity Patterns"
 
 This repository contains Python and Julia scripts used in the paper "Testing and Identifying Substitution and Complementarity Patterns." You can find the latest version of the working paper here.
 
